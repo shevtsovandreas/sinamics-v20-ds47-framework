@@ -12,3 +12,6 @@ The framework supports runtime parameter reading, parameter writing, diagnostics
 
 ## Documentation
 White paper PDF available in /docs
+
+## Runtime Demonstration Playlist
+https://youtube.com/playlist?list=PLCiRFSOXTz8zozSgjko8YxgTDk1TVQFUl
