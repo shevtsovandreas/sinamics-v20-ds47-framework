@@ -1,5 +1,6 @@
 # Runtime DS47 Parameter Management for SINAMICS V20
 Scalable DS47 acyclic communication framework for Siemens S7-1200 PLC and multiple SINAMICS V20 drives using Modbus RTU.
+The framework supports runtime parameter reading, parameter writing, diagnostics, and HMI-based drive commissioning.
 <img width="768" height="432" alt="Overview" src="https://github.com/user-attachments/assets/c0afb3e1-78e1-4181-a5b8-d78750d417b2" />
 
 ## Features
